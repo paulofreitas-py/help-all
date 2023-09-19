@@ -22,3 +22,7 @@ btnClose.onclick = function () {
     modal.close()
 }
 
+// BOTÃO "CANCEL" DO DIALOG 
+bntClose.cancelclick = fuction () {
+    moodal.close()
+}
