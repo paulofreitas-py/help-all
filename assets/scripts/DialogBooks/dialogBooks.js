@@ -26,3 +26,4 @@ btnClose.onclick = function () {
 bntClose.cancelclick = fuction () {
     moodal.close()
 }
+
